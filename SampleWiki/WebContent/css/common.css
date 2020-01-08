@@ -1,0 +1,105 @@
+#header{
+    background-color: #4da6ff;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+}
+
+#menu{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:right;
+    padding: 15px;
+}
+
+a.menu{
+    border-left: 2px solid white;
+    padding: 0 15px 0 15px;
+    color: white;
+    text-decoration: none;
+}
+
+#searchFormId{
+	text-align: center;
+}
+
+a.newButton {
+	background-color: #0055ff;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	padding: 10px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+}
+
+#postings {
+	text-align:center;
+}
+
+#postingMetaDataId {
+	font-size: 12px;
+}
+
+table {
+	display:inline-block;
+}
+a.Button {
+	background-color: #80aaff;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	padding: 4px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+}
+
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+
+
+
+#content{
+    padding: 50px;
+    color: #130000;
+    text-align:center;
+}
+
+
+#errMessage{
+	color:red;
+}
+
+.error{
+	color:red;
+}
+
+#footer {
+    background-color: #f1f1f1;
+    padding: 10px;
+    bottom: 0;
+    position: fixed;
+    width:100%;
+}
+
+#postingNameId{
+	font-size:21px;
+}
+
+
+
+#detailContentId{
+    padding: 50px;
+    color: #130000;
+    text-align:center;
+}
+
+body{
+	background-color: #ebebe0;
+}
